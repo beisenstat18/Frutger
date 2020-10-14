@@ -1,0 +1,364 @@
+html, body{
+  margin: 0px;
+  font-family: Frutiger_bold, sans-serif;
+}
+
+.white1, .white2{
+  background-color: white;
+}
+.white1{
+  display: flex;
+  flex-direction: column;
+}
+.black{
+  background-color: black;
+}
+.blackpadding{
+  padding-left: 27vmin;
+  padding-right: 27vmin;
+}
+
+.red1,.red2 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-top: 1vmin;
+  margin: 0px;
+  letter-spacing: 1vmin;
+}
+.red35{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+}
+.letstry1, .letstry2, .letstry3{
+  color: white;
+  font-size: 10vmin;
+}
+.paddingshit9{
+  padding-left: 10vmin;
+  padding-bottom: 1vmin;
+  background-color: white;
+}
+
+.red15, .red25{
+  font-size: 15vmin;
+  padding-right: .1vmin;
+  padding-top: 1.5vmin;
+  padding-bottom: .0001px;
+  background-color: #D21921;
+  margin:0vmin;
+}
+
+.red15{
+  padding-left: 50vmin;
+}
+.red16{
+  font-size: 15vmin;
+  padding-right: .1vmin;
+  padding-top: 0vmin;
+  padding-bottom: .0001px;
+  background-color: #D21921;
+  margin:0vmin;
+}
+
+.red25{
+  padding-left: 40vmin;
+}
+.red27{
+  font-size: 15vmin;
+  padding-right: 40vmin;
+  padding-top: 1.5vmin;
+  background-color: #D21921;
+
+}
+
+.red17{
+  font-size: 15vmin;
+  padding-right: 50vmin;
+  padding-top: 1.5vmin;
+  background-color: #D21921;
+
+}
+.red107{
+  font-size: 15vmin;
+  padding-right: 8vmin;
+  padding-top: 1.5vmin;
+  background-color: #D21921;
+
+}
+.red105{
+  font-size: 15vmin;
+  padding-left: 8vmin;
+  padding-top: 1.5vmin;
+  background-color: #D21921;
+}
+.paddingshit9{
+  padding-right: 3vmin;
+  padding-bottom: 1vmin;
+  background-color: white;
+}
+.pink2{
+  display: flex;
+  justify-content: center;
+  padding-left: 1vmin;
+}
+
+
+.pink1{
+  display: flex;
+  justify-content: center;
+  padding-left: 1vmin;
+}
+
+.blue1{
+  display: flex;
+  justify-content: center;
+  font-size: 20vmin;
+  width:23vmin;
+  padding-left: 0vmin;
+
+  background-color: white;
+
+}
+.blue2{
+  display: flex;
+  flex-direction: column;
+}
+
+.paddingshit1{
+  padding-left: 5vmin;
+  background-color: white;
+  padding-top: 0px;
+  padding-bottom: 4.5vmin;
+}
+.paddingshit2{
+  padding-right: 4vmin;
+  padding-bottom: 4.5vmin;
+  background-color: white;
+}
+
+.paddingshit3{
+  padding-right: 3vmin;
+  padding-bottom: 1vmin;
+  background-color: white;
+}
+
+.paddingshit4{
+  padding-left: 1vmin;
+  padding-bottom: 1vmin;
+  background-color: white;
+}
+.black{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+
+}
+.green2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 2vmin;
+}
+.green1{
+  padding-right: 2vmin;
+}
+.darkb1{
+  color: white;
+  background-color: black;
+  font-size: 10vmin;
+  font-style: italic;
+
+
+}
+.darkb2{
+background-color: #ffffff;
+font-size: 10vmin;
+
+}
+
+.darkb3{
+    color: white;
+  background-color: #EC2B8B;
+  font-size: 10vmin;
+  font-style: italic:
+
+}
+.greeny1{
+  background-color: white;
+  color:black;
+  font-size: 10vmin;
+  padding-left: 1vmin;
+}
+
+.greeny2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.mint1{
+  color:white;
+  padding-left: 2vmin;
+  background-color: black;
+}
+
+.mint2{
+  color:white;
+  background-color: #D21921;
+  font-size: 10vmin;
+}
+.blue3{
+  display: flex;
+  justify-content: center;
+  font-size: 10vmin;
+}
+.greeny3{
+  background-color: #fff200;
+  font-size: 10vmin;
+}
+.orange1{
+  background-color: #41AD48;
+  font-style: italic;
+  font-size: 20vmin;
+  padding-right: 2vmin;
+  padding-left: 1vmin;
+}
+.orange2{
+
+  display: flex;
+  flex-direction: column;
+  padding: .2vmin;
+
+  background-color: black;
+}
+.darkorange1,.darkorange2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.mustard1, .mustard2, .mustard3{
+  display: flex;
+  justify-content: center;
+}
+.lime1{
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size:10vmin;
+}
+.lime2{
+  display: flex;
+  font-size:10vmin;
+  justify-content: center;
+  background-color: #fff200;
+}
+.magenta1{
+  background-color: white;
+  font-style: italic;
+  font-size: 12vmin;
+  display: flex;
+  justify-content: center;
+}
+.magenta2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.redblood1{
+  color:white;
+  background-color: #D21921;
+  font-size: 8vmin;
+}
+.redblood2{
+  color:white;
+  background-color: #25408F;
+  font-size: 8vmin;
+}
+.darkpurple2{
+  display: flex;
+  justify-content: center;
+}
+.pinkfun1{
+  background-color: #fff200;
+  font-size:10vmin;
+  height: 30vmin;
+}
+.pinkfun2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.tealfun1{
+  color: white;
+  background-color: #25408F;
+  font-size: 10vmin;
+}
+.tealfun2{
+  background-color: white;
+  font-size: 10vmin;
+  font-style: italic;
+}
+.pinkfun3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.limefun1{
+  color:white;
+  font-size: 10vmin;
+}
+.limefun2, .limefun3{
+  background-color: white;
+  font-size: 10vmin;
+}
+.purple1{
+  color: white;
+  font-size: 7vmin;
+  padding-bottom: 2vmin;
+  display: flex;
+  justify-content: center;
+}
+.mustard3{
+  display: flex;
+  justify-content: center;
+}
+.tiffany1{
+  color: white;
+  background-color: #D21921;
+  font-size: 10vmin;
+}
+.tiffany2{
+  color: white;
+  font-size: 10vmin;
+}
+.purple2{
+  background-color: white;
+  font-size: 10vmin;
+  padding-top: 0vmin;
+}
+.green1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.darkpurple1{
+  display: flex;
+  justify-content: center;
+}
+.tealagain1{
+  color: white;
+  display: flex;
+  justify-content: center;
+  background-color: #EC2B8B;
+  font-size: 20vmin;
+}
+.tealagain2{
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  background-color: white;
+  font-size: 12vmin;
+}
